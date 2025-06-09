@@ -2,9 +2,10 @@
 
 **Launchpad** is a small Godot plugin to quickly launch, relaunch or quit your game with your gamepad's home button.
 
-## Installation
+> [!NOTE]
+> Requires Godot 4.2.
 
-Requires Godot 4.2
+## Installation
 
 1. Download latest release from [here](https://github.com/vaner-org/launchpad/releases/latest) or [AssetLib](https://godotengine.org/asset-library/asset/3239) and place it in your project's `addons` folder.
 2. In the toolbar, navigate to Project > Project Settings > Plugins and enable Launchpad.
